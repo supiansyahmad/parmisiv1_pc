@@ -1,0 +1,20 @@
+{
+    "name": "PARMISI | PA Barabai",
+    "short_name": "PARMISI",
+    "start_url": "/parmisi/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#10b981",
+    "icons": [
+        {
+            "src": "/parmisi/logo-aplikasi.png?v=4",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/parmisi/logo-aplikasi.png?v=4",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

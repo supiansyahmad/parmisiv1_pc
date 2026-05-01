@@ -1,0 +1,1 @@
+<img src="/parmisi/logo.png" alt="Logo" {{ $attributes }}>
